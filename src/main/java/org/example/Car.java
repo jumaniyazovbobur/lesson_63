@@ -3,20 +3,9 @@ package org.example;
 public class Car {
     private Integer id;
     private String name;
-    private String surname;
-    private String color;
-
-
-    private String level;
-    private String brand;
-    private Integer car_number;
-    private String magimagi;
-
+    private Student student;
 
     public static void main(String[] args) {
-        System.out.println("Hello wordl ");
+        System.out.println("Men edim");
     }
-    private String model;
-
-    private Integer name_id;
 }
