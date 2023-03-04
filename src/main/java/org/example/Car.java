@@ -7,7 +7,7 @@ public class Car {
     private String color;
     private String level;
     private String brand;
-    private Integer car_number;
+    private String model;
 
     private Integer name_id;
 }
