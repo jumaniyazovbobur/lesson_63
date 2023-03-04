@@ -4,4 +4,5 @@ public class Car {
     private Integer id;
     private String name;
     private String color;
+    private String level;
 }
