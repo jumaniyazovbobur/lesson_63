@@ -11,7 +11,7 @@ public class Car {
     private String age1;
     private Integer age;
     private String brand;
-    private String magimagi+++++++++++;
+    private String magimagi;
     
 
     public static void main(String[] args) {
