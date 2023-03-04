@@ -10,6 +10,15 @@ public class Car {
     private Integer car_number;
 
     private Integer name_id;
-    private String model;
+
+
+
+
+
+
+
+
+
+
     private String cmsdnfjnsjdf;
 }
