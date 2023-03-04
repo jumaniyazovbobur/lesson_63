@@ -8,6 +8,7 @@ public class Car {
     private String surname;
     private String color;
     private String level;
+    private Integer age;
     private String brand;
 
 }
