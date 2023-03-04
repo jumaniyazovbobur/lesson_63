@@ -10,4 +10,5 @@ public class Car {
     private Integer car_number;
     private String magimagi;
     private Integer name_id;
+    private Integer phone;
 }
