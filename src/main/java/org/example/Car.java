@@ -8,14 +8,14 @@ public class Car {
 
 
     private String level;
-    private String age1;
-    private Integer age;
     private String brand;
+    private Integer car_number;
     private String magimagi;
-    
+
 
     public static void main(String[] args) {
         System.out.println("Hello wordl ");
     }
 
+    private Integer name_id;
 }
