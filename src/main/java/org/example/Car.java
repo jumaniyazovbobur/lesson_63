@@ -9,4 +9,5 @@ public class Car {
     private String brand;
     private Integer car_number;
 
+    private Integer name_id;
 }
