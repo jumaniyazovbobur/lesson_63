@@ -6,7 +6,6 @@ public class Car {
     private String surname;
     private String color;
     private String level;
-    private Integer age;
     private String brand;
 
     public Car(Integer id, String name, String surname, String color, String level) {
@@ -17,6 +16,7 @@ public class Car {
         this.level = level;
     }
     private Integer car_number;
+    private String model;
 
     private Integer name_id;
 }
