@@ -6,7 +6,9 @@ public class Car {
     private String surname;
     private String color;
     private String level;
+    private String age1;
     private Integer age;
     private String brand;
+
     private Integer name_id;
 }
