@@ -5,4 +5,5 @@ public class Car {
     private String name;
     private String surname;
     private String color;
+    private Integer age;
 }
