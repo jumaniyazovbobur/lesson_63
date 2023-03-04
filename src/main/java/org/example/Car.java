@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.Date;
+
 public class Car {
     private Integer id;
     private String name;
@@ -9,5 +11,5 @@ public class Car {
     private String brand;
     private String model;
 
-    private Integer Brithday;
+    private Date Brithday;
 }
