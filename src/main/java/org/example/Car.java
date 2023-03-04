@@ -16,4 +16,7 @@ public class Car {
         this.color = color;
         this.level = level;
     }
+    private Integer car_number;
+
+    private Integer name_id;
 }
