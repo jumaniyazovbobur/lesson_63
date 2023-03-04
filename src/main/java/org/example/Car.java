@@ -16,6 +16,7 @@ public class Car {
     public static void main(String[] args) {
         System.out.println("Hello wordl ");
     }
+    private String model;
 
     private Integer name_id;
 }
